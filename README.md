@@ -1,10 +1,10 @@
 # CampusIQ Acadlytics: Institute Performance Analysis
 
 ## 📌 Project Overview
-CampusIQ Analytics is a data analytics project focused on evaluating the performance of an educational institute using real-world styled datasets. As per the requirement analyzing institute operations to generate decision-making insights through ETL Power Query and DAX measures as well.  
-The project integrates multiple data sources—student admissions, certificate records, and student queries—to generate meaningful business insights.
+CampusIQ Analytics is a data analytics project focused on evaluating the performance of an educational institute using real-world styled datasets and as per the requirement analyzing institute operations to generate decision-making insights through ETL Power Query and DAX measures as well.      
+ The purpose is to integrates multiple data sources—student admissions, certificate records, and student queries—to generate meaningful business insights.
 
-This project demonstrates an end-to-end analytics workflow including data cleaning, transformation, integration, analysis, and visualization using Python, SQL concepts, and Power BI.
+This project demonstrates an end-to-end analytics workflow including data cleaning, transformation, integration, analysis, and visualization using Python, ETL concepts, and Power BI.
 
 ---
 
@@ -20,9 +20,8 @@ This project demonstrates an end-to-end analytics workflow including data cleani
 ## 🛠️ Tools & Technologies
 - **Python** (Pandas, NumPy)
 - **Data Visualization** (Matplotlib, Seaborn)
-- **SQL** (for KPI logic and analysis)
-- **Power BI** (for dashboard creation)
-- **Excel** (data source)
+- **Power BI** (for DAX/dashboard creation)
+- **Excel** (Data source)
 
 ---
 
